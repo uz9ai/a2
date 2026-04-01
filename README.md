@@ -1,5 +1,6 @@
 # Deliverables
 
+(Note: .claude folder renamed to claude; otherwise github doesn't commit)
 ## Skill: `/k8s-plan`
 
 **Location:** `.claude/skills/k8s-plan/SKILL.md` (312 lines)
